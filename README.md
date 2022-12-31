@@ -26,6 +26,6 @@ Group Number:
 23
 
 Group Members:
-17201014 Syed Muaz Ali
-18101407 Afif Ibna Kadir Khan Turja
+17201014 Syed Muaz Ali, 
+18101407 Afif Ibna Kadir Khan Turja, 
 17101527 Sabiha Tahseen
