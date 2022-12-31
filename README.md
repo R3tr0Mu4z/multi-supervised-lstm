@@ -1,5 +1,4 @@
 Unlisted youtube video:
-
 https://www.youtube.com/watch?v=yv_Ia4FcEQw
 
 Conference submitted paper / paper submission / login Link:
@@ -27,8 +26,6 @@ Group Number:
 23
 
 Group Members:
-17201014 Syed Muaz Ali 
-
-18101407 Afif Ibna Kadir Khan Turja 
-
-17101527 Sabiha Tahseen 
+17201014 Syed Muaz Ali
+18101407 Afif Ibna Kadir Khan Turja
+17101527 Sabiha Tahseen
