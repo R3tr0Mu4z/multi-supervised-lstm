@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://www.youtube.com/watch?v=yv_Ia4FcEQw
 
 Conference submitted paper / paper submission / login Link:
-N/A
+http://confsys.iconf.org/index.php/index/paper_show/id/48040.html
 
 Paper title:
 Multi-Supervised LSTM for Bengali Text Sentiment Analysis
@@ -11,16 +11,16 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/12DSXU0UURPvereTKZiraZFtCso1u46GJfargpj9FOJ8/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-N/A
+3-1-2023
 
 Paper submission ID: (received) from conference/workshop
-N/A
+48040
 
 Conference Name:
-N/A
+ICMLT 2023
 
 Conference URL:
-
+http://confsys.iconf.org/
 
 Group Number:
 23
